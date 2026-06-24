@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6B3FA0,957DAD,D291BC&height=2&section=header" width="100%" />
 
 ### 🔭 Ahora mismo
 
@@ -27,7 +27,8 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6B3FA0,957DAD,D291BC&height=2&section=header" width="100%" />
+
 
 ### 🔮 Sobre Mí
 
@@ -39,7 +40,8 @@
 - 💼 Buscando activamente oportunidades y proyectos donde pueda meterle mente a la lógica y al código.
 - 🐈 Esclava de tiempo completo de mi gato.
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6B3FA0,957DAD,D291BC&height=2&section=header" width="100%" />
+
 
 ### 🛠️ Mi Toolbox Tecnológico
 
@@ -58,20 +60,21 @@
   <img src="https://img.shields.io/badge/GitHub-FFDFD3?style=for-the-badge&logo=github&logoColor=333" alt="GitHub" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6B3FA0,957DAD,D291BC&height=2&section=header" width="100%" />
+
 
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cataaap24&show_icons=true&theme=buefy&title_color=957dad&icon_color=d291bc&text_color=777&bg_color=00000000&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cataaap24&layout=compact&theme=buefy&title_color=957dad&text_color=777&bg_color=00000000&hide_border=true" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cataaap24&show_icons=true&title_color=957dad&icon_color=d291bc&text_color=957dad&bg_color=ffffff00&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cataaap24&layout=compact&title_color=957dad&text_color=957dad&bg_color=ffffff00&hide_border=true" height="150" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cataaap24&theme=buefy&hide_border=true&ring=957DAD&fire=D291BC&currStreakLabel=957DAD" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cataaap24&hide_border=true&background=ffffff00&ring=957DAD&fire=D291BC&currStreakLabel=957DAD&sideLabels=957DAD&dates=957DAD&currStreakNum=D291BC&sideNums=D291BC" alt="Streak Stats" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6B3FA0,957DAD,D291BC&height=2&section=header" width="100%" />
 
----
 
 ### 🐍 Mis contribuciones
 
@@ -79,7 +82,8 @@
   <img src="https://raw.githubusercontent.com/cataaap24/cataaap24/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6B3FA0,957DAD,D291BC&height=2&section=header" width="100%" />
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FEC8D8,D291BC,957DAD,6B3FA0&height=100&section=footer" alt="Footer" />
