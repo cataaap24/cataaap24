@@ -1,30 +1,45 @@
-# ¡Hola! Soy Catalina 👋
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19,13,22&height=180&section=header&text=Catalina%20Pineda&fontSize=50&animation=fadeIn&fontColor=ffffff" alt="Banner Aesthetic" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6B3FA0,957DAD,D291BC,FEC8D8&height=180&section=header&text=Catalina%20Pineda&fontSize=50&animation=fadeIn&fontColor=ffffff" alt="Banner" />
 </p>
 
 <p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas</strong> 💻 🦄 ✨
-  <br />
-  Intentando descifrar el mundo a base de código y un montón de curiosidad.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=957DAD&center=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%92%BB;Apasionada+por+los+gatos+%F0%9F%8F%97%EF%B8%8F;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80;Campeona+virtual+de+Just+Dance+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/cataaap24"><img src="https://img.shields.io/github/followers/cataaap24?label=Followers&style=social" alt="Followers"></a>
+  <a href="https://github.com/cataaap24">
+    <img src="https://img.shields.io/github/followers/cataaap24?label=Followers&style=social" alt="Followers" />
+  </a>
 </p>
+
+---
+
+### 🔭 Ahora mismo
+
+<table align="center">
+  <tr>
+    <td align="center">🏗️ <strong>Working on</strong></td>
+    <td align="center">🌱 <strong>Learning</strong></td>
+  </tr>
+  <tr>
+    <td align="center">CodeBloom - app para registrar cursos en progreso y completados</td>
+    <td align="center">Desarrollo web con AI-assisted development</td>
+  </tr>
+</table>
 
 ---
 
 ### 🔮 Sobre Mí
 
-- 🏫 Actualmente cursando la carrera de **Ingeniería de Sistemas**.
+- 🏫 Actualmente cursando **Ingeniería de Sistemas**.
 - 🏗️ Apasionada por el diseño de software limpio, la arquitectura de código y la resolución de problemas lógicos/matemáticos.
 - 🚀 Siempre estoy aprendiendo algo nuevo por mi cuenta; si sale una tecnología o reto interesante, me lanzo de cabeza.
 - 🍳 Fuera de las pantallas, me vas a encontrar cocinando o escuchando música para desconectar.
-- 🎮 Fan de los videojuegos y jugadora frustrada de baile: he ganado varias veces los campeonatos virtuales de Just Dance.
+- 🎮 Fan de los videojuegos y jugadora frustrada de baile: he ganado varias veces en el World Dance Floor de Just Dance.
 - 💼 Buscando activamente oportunidades y proyectos donde pueda meterle mente a la lógica y al código.
 - 🐈 Esclava de tiempo completo de mi gato.
+
+---
 
 ### 🛠️ Mi Toolbox Tecnológico
 
@@ -33,10 +48,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-FEC8D8?style=for-the-badge&logo=c%2B%2B&logoColor=333" alt="C++" />
   <img src="https://img.shields.io/badge/Java-E0BBE4?style=for-the-badge&logo=openjdk&logoColor=333" alt="Java" />
   <img src="https://img.shields.io/badge/Python-957DAD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <!---<img src="https://img.shields.io/badge/JavaScript-D291BC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />--->
-  <!---<img src="https://img.shields.io/badge/Go-FFDFD3?style=for-the-badge&logo=go&logoColor=333" alt="Go" /> --->
 </p>
-
 
 #### 🗄️ Bases de Datos & Herramientas
 <p align="left">
@@ -51,23 +63,26 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cataaap24&show_icons=true&theme=buefy&title_color=957dad&icon_color=d291bc&text_color=777&bg_color=00000000&hide_border=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cataaap24&layout=compact&theme=buefy&title_color=957dad&text_color=777&bg_color=00000000&hide_border=true" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cataaap24&show_icons=true&theme=buefy&title_color=957dad&icon_color=d291bc&text_color=777&bg_color=00000000&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cataaap24&layout=compact&theme=buefy&title_color=957dad&text_color=777&bg_color=00000000&hide_border=true" height="150" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cataaap24&theme=buefy&hide_border=true&ring=957DAD&fire=D291BC&currStreakLabel=957DAD" alt="Streak Stats" />
 </p>
 
 ---
-<!-- 
-### 📬 Conectemos
 
-<p align="left">
-  <a href="mailto:tu-correo@email.com">
-    <img src="https://img.shields.io/badge/Gmail-E0BBE4?style=for-the-badge&logo=gmail&logoColor=333" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-957DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### 🐍 Mis contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cataaap24/cataaap24/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
--->
 
-<p align="right"><i>"Programar es como armar una coreografía: si la lógica tiene ritmo, el código fluye solo." ✨🕺.</i></p>
-<!---<p align="right"><i>"Lógica en la mente, música en los oídos y un gato ronroneando al lado del teclado." 💻🎧🐈</i></p> --->
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FEC8D8,D291BC,957DAD,6B3FA0&height=100&section=footer" alt="Footer" />
+</p>
+
+<p align="center"><i>"Programar es como armar una coreografía: si la lógica tiene ritmo, el código fluye solo." ✨🕺</i></p>
