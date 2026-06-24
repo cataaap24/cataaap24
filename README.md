@@ -79,7 +79,7 @@
 ### 🐍 Mis contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cataaap24/cataaap24/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/cataaap24/cataaap24/output/pacman-contribution-graph.svg" alt="Pacman" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6B3FA0,957DAD,D291BC&height=2&section=header" width="100%" />
