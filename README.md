@@ -34,7 +34,7 @@
 
 - 🏫 Actualmente cursando **Ingeniería de Sistemas**.
 - 🏗️ Apasionada por el diseño de software limpio, la arquitectura de código y la resolución de problemas lógicos/matemáticos.
-- 🚀 Siempre estoy aprendiendo algo nuevo por mi cuenta; si sale una tecnología o reto interesante, me lanzo de cabeza.
+- 🚀 Siempre estoy aprendiendo algo nuevo por mi cuenta.
 - 🍳 Fuera de las pantallas, me vas a encontrar cocinando o escuchando música para desconectar.
 - 🎮 Fan de los videojuegos y jugadora frustrada de baile: he ganado varias veces en el World Dance Floor de Just Dance.
 - 💼 Buscando activamente oportunidades y proyectos donde pueda meterle mente a la lógica y al código.
